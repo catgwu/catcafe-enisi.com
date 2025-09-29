@@ -211,6 +211,8 @@ img {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 25px;
+    width: 80%;
+    margin: 0 auto;
 }
 .staff-item img {
    width: 60%;
